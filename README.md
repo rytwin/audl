@@ -7,4 +7,4 @@ Originally completed December 2022, uploaded to GitHub April 2024
 `audl_analysis.ipynb`: Analyzes downloaded data
 `AUDL_Analysis.pdf`: Write-up of findings
 
-The `data/` folder contains the downloaded player and team data, along with cluster and prediction outputs from the analysis. It also includes file manually created with the divisions for each team.
+The `data/` folder contains the scraped player and team data, along with cluster and prediction outputs from the analysis. It also includes file manually created with the divisions for each team.
